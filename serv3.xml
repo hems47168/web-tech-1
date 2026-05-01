@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+    <servlet-name>DoPostServletDemo</servlet-name>
+    <servlet-class>DoPostServletDemo</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>DoPostServletDemo</servlet-name>
+    <url-pattern>/DoPostServletDemo</url-pattern>
+</servlet-mapping>
+
+</web-app>
